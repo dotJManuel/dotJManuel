@@ -31,4 +31,4 @@
 ---
 
 ### Mis estadísticas :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotJManuel&layout=compact&theme=prussian)](https://github.com/sudheerj/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dotJManuel&layout=compact&theme=prussian)](https://github.com/sudheerj/github-readme-stats)
