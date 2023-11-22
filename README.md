@@ -2,7 +2,7 @@
 
 - 🔭 Actualmente trabajo en proyectos de backend con .Net Core
 - 🌱 Estoy aprendiendo React.js
-- 📫 Cómo contactarme: jsmnlhm@gmail.com  
+- 📫 Cómo contactarme: dotJManuel@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dotjmanuel) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dotJManuel) 
