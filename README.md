@@ -1,7 +1,7 @@
 ## Hola, 👋 Mi nombre es José Manuel
 
 - 🔭 Actualmente trabajo en proyectos de backend con .Net Core
-- 🌱 Estoy aprendiendo React.js
+- 🌱 Estoy aprendiendo Angular
 - 📫 Cómo contactarme: dotJManuel@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dotjmanuel) 
