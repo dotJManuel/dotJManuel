@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Semaphore Class in C#](https://app.daily.dev/posts/nOKeBk5Xq?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [GitHub Actions Explained](https://app.daily.dev/posts/ARvhUQR37?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [JavaScript design patterns guide](https://app.daily.dev/posts/vdeLaySdV?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [10 JavaScript Array Functions You Should Master as a Senior Dev](https://app.daily.dev/posts/oUs0f2Jeb?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [5 JavaScript Security Best Practices for 2024](https://app.daily.dev/posts/MNmJrp9tV?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [No title](https://app.daily.dev/posts/lEiXKuOFr?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
