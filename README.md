@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [ASP.NET Core Basics: 12 Questions and Answers for Beginners](https://app.daily.dev/posts/h5fidM1mD?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/KgjQcUZsA?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Learn PWA](https://app.daily.dev/posts/fAhciPtzJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Differences Between Onion Architecture and Clean Architecture](https://app.daily.dev/posts/Lrqb2gprp?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Push your skills](https://app.daily.dev/posts/Tyxk9ccHv?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Javascript Colored Tags Generator](https://app.daily.dev/posts/YTtp0CeAD?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
