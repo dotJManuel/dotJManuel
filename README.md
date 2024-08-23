@@ -9,7 +9,7 @@
 
 ---
 
-## Tecnologías :
+## Tools :
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-### Mis estadísticas :
+### My statistics :
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dotJManuel&layout=compact&theme=prussian)](https://github.com/sudheerj/github-readme-stats)
 
 
