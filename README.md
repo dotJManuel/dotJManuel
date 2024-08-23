@@ -1,8 +1,8 @@
-## Hola, 👋 Mi nombre es José Manuel
+## Hello! 👋 I’m José Manuel
+- 🔭 I specialize in backend projects with .Net Core, developing robust and scalable solutions to meet client needs.
+- 🌱 Currently, I’m learning Angular, expanding my knowledge to master frontend development and create more complete applications.
+- 📫 You can contact me via my email: dotJManuel@gmail.com
 
-- 🔭 Actualmente trabajo en proyectos de backend con .Net Core
-- 🌱 Estoy aprendiendo Angular
-- 📫 Cómo contactarme: dotJManuel@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dotjmanuel) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dotJManuel) 
