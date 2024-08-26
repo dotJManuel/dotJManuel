@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Dynamically Change the ServiceLifetime of a Registered Service in .NET](https://app.daily.dev/posts/v6Cua0LqY?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Java Date Format: A Detailed Guide](https://app.daily.dev/posts/tFctkTNzE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [How to avoid exceptions in C#](https://app.daily.dev/posts/WRzWh0g8t?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [15 ways to Supercharge your Career Growth](https://app.daily.dev/posts/d4bHNKXv5?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Open source tools to boost your productivity](https://app.daily.dev/posts/HUUQlEsoT?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [No title](https://app.daily.dev/posts/cmCOkcdS7?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
