@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Optimize your workflow with Git stash](https://app.daily.dev/posts/q9rgvmlzw?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Move Slow and Fix Things](https://app.daily.dev/posts/hfRWjCWTP?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No One Knows How AI Works](https://app.daily.dev/posts/NcGjEYBNF?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Retrying Failed HttpClient Requests in .NET Using Polly](https://app.daily.dev/posts/aioPpD0nP?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Dynamically Change the ServiceLifetime of a Registered Service in .NET](https://app.daily.dev/posts/v6Cua0LqY?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Java Date Format: A Detailed Guide](https://app.daily.dev/posts/tFctkTNzE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
