@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [10 Resources to Master Data Structures and Algorithms in 2024](https://app.daily.dev/posts/MPEgKGqkI?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Making the Most out of Load and Performance Testing](https://app.daily.dev/posts/jZzwasrcE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Optimize your workflow with Git stash](https://app.daily.dev/posts/q9rgvmlzw?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Move Slow and Fix Things](https://app.daily.dev/posts/hfRWjCWTP?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No One Knows How AI Works](https://app.daily.dev/posts/NcGjEYBNF?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Retrying Failed HttpClient Requests in .NET Using Polly](https://app.daily.dev/posts/aioPpD0nP?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
