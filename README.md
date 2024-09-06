@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Selection Sort: A Step-by-Step Guide 💬](https://app.daily.dev/posts/wlrTWdRbZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Mastering JavaScript Arrays: Techniques, Best Practices, and Advanced Uses](https://app.daily.dev/posts/5AKE04LGR?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [6 Tips: Why Front-End Developers should be Entrepreneurs](https://app.daily.dev/posts/wIzv5w0Az?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [10 Resources to Master Data Structures and Algorithms in 2024](https://app.daily.dev/posts/MPEgKGqkI?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Making the Most out of Load and Performance Testing](https://app.daily.dev/posts/jZzwasrcE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Optimize your workflow with Git stash](https://app.daily.dev/posts/q9rgvmlzw?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
