@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Adding Shields.io badges to your GitHub profile](https://app.daily.dev/posts/deD6PKL2V?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Radix Sort](https://app.daily.dev/posts/1ycByzFF4?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Counting Sort](https://app.daily.dev/posts/WOiF4L6hp?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Insertion Sort: A Deep Dive](https://app.daily.dev/posts/DeO5rzw59?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Creating a Scrollable DIV Area](https://app.daily.dev/posts/sTKSjmd3y?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Bubble Sort: A Detailed Deep-Dive 🛁](https://app.daily.dev/posts/tLJUXb6x2?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
