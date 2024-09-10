@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Passwords have problems, but passkeys have more](https://app.daily.dev/posts/dwzOYs6aD?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [No title](https://app.daily.dev/posts/S6Xe1Igmi?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Adding Shields.io badges to your GitHub profile](https://app.daily.dev/posts/deD6PKL2V?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Radix Sort](https://app.daily.dev/posts/1ycByzFF4?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Counting Sort](https://app.daily.dev/posts/WOiF4L6hp?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Insertion Sort: A Deep Dive](https://app.daily.dev/posts/DeO5rzw59?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Creating a Scrollable DIV Area](https://app.daily.dev/posts/sTKSjmd3y?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
