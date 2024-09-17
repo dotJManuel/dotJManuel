@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Sort, sweep, and prune: Collision detection algorithms · leanrada.com](https://app.daily.dev/posts/Z2v76qngN?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Timsort: A Lightning Fast Hybrid Sorting Algorithm](https://app.daily.dev/posts/hFpl4Idhr?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Use SQL &quot;NOT IN&quot; With Caution](https://app.daily.dev/posts/1nQBvsKcO?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/G1p8larOH?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/f46u0WwAf?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Passwords have problems, but passkeys have more](https://app.daily.dev/posts/dwzOYs6aD?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
