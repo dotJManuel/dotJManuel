@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [7 Simple Tips to Improve Daily Focus](https://app.daily.dev/posts/qhzH72fZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Cheatsheets for Developers](https://app.daily.dev/posts/2mkBsovAW?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [10 Best Resources for Software Engineer Interviews in 2024?](https://app.daily.dev/posts/J8YPpL4HK?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/4I6gzwxN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Types vs. interfaces in TypeScript](https://app.daily.dev/posts/7pOYZOCjA?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [How Developers Destroy Brain Health](https://app.daily.dev/posts/OHpov2AI7?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
