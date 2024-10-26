@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/tlvj4yhgc?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Fun with Custom Cursors](https://app.daily.dev/posts/8iXzwprxi?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Two-Dimensional &lpar;2D&rpar; Arrays in JavaScript](https://app.daily.dev/posts/oaLdLO19m?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Why Do Many People Not Recommend Using JWT?](https://app.daily.dev/posts/6sPE7Uz8k?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [7 Simple Tips to Improve Daily Focus](https://app.daily.dev/posts/qhzH72fZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Cheatsheets for Developers](https://app.daily.dev/posts/2mkBsovAW?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
