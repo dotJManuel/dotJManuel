@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Enhance Your .NET Projects with Fluent API Design Principles 📈](https://app.daily.dev/posts/FVxEeMqB5?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [How I Built My Portfolio](https://app.daily.dev/posts/nYIAtmSfG?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/8sspLfc4V?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Finding Prime Numbers Using a Sieve of Eratosthenes](https://app.daily.dev/posts/ZTwZBijsB?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/oOrtvQKJw?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Merge Sort: A Simple Step-by-Step Walkthrough 😀](https://app.daily.dev/posts/7JUI8z1F3?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
