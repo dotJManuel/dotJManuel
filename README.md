@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How does Netflix manage to show you a movie without interruptions?](https://app.daily.dev/posts/3GPA40oFB?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Data Structures &amp; Algorithms Cheat Sheet for Tech Interviews &lpar;with Resources&rpar;](https://app.daily.dev/posts/Z0CzD3BHu?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/MWxEnAtdb?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/KngynrUjn?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/0kQQZpILr?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [33 JavaScript concepts every developer should know.](https://app.daily.dev/posts/ffGKfHLaU?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
