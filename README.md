@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [6 hidden gems in the JavaScript API you should be using](https://app.daily.dev/posts/aiNsvhpeQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Why do AI company logos look like buttholes?](https://app.daily.dev/posts/6IcatVzbc?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Top 5 Free JavaScript PDF Viewers for Developers in 2025](https://app.daily.dev/posts/Qm1yiJn2r?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [How does Netflix manage to show you a movie without interruptions?](https://app.daily.dev/posts/3GPA40oFB?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Data Structures &amp; Algorithms Cheat Sheet for Tech Interviews &lpar;with Resources&rpar;](https://app.daily.dev/posts/Z0CzD3BHu?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [No title](https://app.daily.dev/posts/MWxEnAtdb?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
