@@ -35,9 +35,9 @@
 
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Unit Test a REST API? Everything You Need to Know](https://app.daily.dev/posts/rk5Z44IuW?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [No title](https://app.daily.dev/posts/kvEkdUy4Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Dopamine addiction: the obscure side of the seeking-reward loop](https://app.daily.dev/posts/QRuJq2CKs?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [6 hidden gems in the JavaScript API you should be using](https://app.daily.dev/posts/aiNsvhpeQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Why do AI company logos look like buttholes?](https://app.daily.dev/posts/6IcatVzbc?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Top 5 Free JavaScript PDF Viewers for Developers in 2025](https://app.daily.dev/posts/Qm1yiJn2r?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
