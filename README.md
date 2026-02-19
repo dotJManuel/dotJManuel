@@ -1,43 +1,95 @@
-## Hello! 👋 I’m José Manuel
-- 🔭 I specialize in backend projects with .Net Core, developing robust and scalable solutions to meet client needs.
-- 🌱 Currently, I’m learning Angular, expanding my knowledge to master frontend development and create more complete applications.
-- 📫 You can contact me via my email: dotJManuel@gmail.com
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
 
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dotjmanuel) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dotJManuel) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jos%C3%A9+Manuel+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+Java;Building+scalable+solutions+%E2%9A%A1)](https://git.io/typing-svg)
 
----
+</div>
 
-## Tools :
+<br/>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+```csharp
+public class AboutMe
+{
+    public string Name => "José Manuel";
+    public string Role => "Software Developer";
+    public int YearsOfExperience => 4;
+    public string[] MainStack => new[] { ".NET", "Java", "Spring Boot", "Azure" };
+    public string[] Passions => new[] { "Clean Code", "API Design", "System Integration" };
+    public string Certification => "Microsoft Azure AZ-900";
+}
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
+
+## 🚀 What I Do
+
+I build **backend systems** that scale. From **REST APIs** and **microservices** to complex **enterprise integrations** with SAP Business One — I focus on writing clean, maintainable code that solves real business problems.
+
+Currently exploring **DevOps practices** and **CI/CD pipelines** to level up my deployment game.
+
+<br/>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Data & Messaging
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
----
+<br/>
 
-### My statistics :
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dotJManuel&layout=compact&theme=prussian)](https://github.com/sudheerj/github-readme-stats)
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dotJManuel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-dotJManuel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotJManuel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Manuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotjmanuel)
+
+</div>
+
+<br/>
+
+## 📚 Currently Reading
 
 <!-- daily.dev BOOKMARKS:START -->
 - [Learn fundamentals, not frameworks](https://app.daily.dev/posts/nLqAJGqtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [You can code only 4 hours per day. Here’s why.](https://app.daily.dev/posts/6CCjFqKqC?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [EP195: Common Network Protocols Every Engineer Should Know](https://app.daily.dev/posts/jg7Ni2mtE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [No title](https://app.daily.dev/posts/eC9HsHF69?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [No title](https://app.daily.dev/posts/7jdTdTZLs?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [You can code only 4 hours per day. Here's why.](https://app.daily.dev/posts/6CCjFqKqC?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [Common Network Protocols Every Engineer Should Know](https://app.daily.dev/posts/jg7Ni2mtE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dotJManuel&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
