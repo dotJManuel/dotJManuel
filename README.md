@@ -81,11 +81,11 @@ Currently exploring **DevOps practices** and **CI/CD pipelines** to level up my 
 ## 📚 Currently Reading
 
 <!-- daily.dev BOOKMARKS:START -->
+- [SQL Indexing Explained: Composite Indexes and Column Order](https://daily.dev/posts/exxMe3LqV?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Should You Split That Into Microservices? Ask These 5 Questions First](https://daily.dev/posts/5E7Orzjkr?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [How to Protect HTML Content from Being Copied](https://daily.dev/posts/sLjLZeRJj?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Learn fundamentals, not frameworks](https://daily.dev/posts/nLqAJGqtR?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [You can code only 4 hours per day. Here’s why.](https://daily.dev/posts/6CCjFqKqC?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [EP195: Common Network Protocols Every Engineer Should Know](https://daily.dev/posts/jg7Ni2mtE?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
 
 <br/>
