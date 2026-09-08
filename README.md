@@ -1,97 +1,115 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0F0F23&height=200&section=header&text=José%20Manuel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Engineer%20·%20Systems%20Integration&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jos%C3%A9+Manuel+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+Java;Building+scalable+solutions+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&height=45&lines=Building+robust+backend+architectures;Distributed+systems+and+modern+APIs;Scalable+by+design%2C+clean+by+conviction)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/dotjmanuel/"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:dotjmanuel@gmail.com"><img src="https://img.shields.io/badge/-Email-6C63FF?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/dotJManuel/portfolio"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dotJManuel&color=6C63FF&style=flat-square&label=Views"/>
 
 </div>
 
 <br/>
 
-```csharp
-public class AboutMe
-{
-    public string Name => "José Manuel";
-    public string Role => "Software Developer";
-    public int YearsOfExperience => 4;
-    public string[] MainStack => new[] { ".NET", "Java", "Spring Boot", "Azure" };
-    public string[] Passions => new[] { "Clean Code", "API Design", "System Integration" };
-    public string Certification => "Microsoft Azure AZ-900";
-}
-```
-
-<br/>
-
-## 🚀 What I Do
-
-I build **backend systems** that scale. From **REST APIs** and **microservices** to complex **enterprise integrations** with SAP Business One — I focus on writing clean, maintainable code that solves real business problems.
-
-Currently exploring **DevOps practices** and **CI/CD pipelines** to level up my deployment game.
-
-<br/>
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### `⚙️ Stack`
 
-### Data & Messaging
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,java,ts,js,dotnet,spring&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,rabbitmq,docker&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,git,angular,tailwind&theme=dark" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<div align="center">
+
+### `📌 Projects`
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**💰 [ManejoPresupuesto](https://github.com/dotJManuel/ManejoPresupuestoMVC)**
+> Personal finance management app.
+>
+> `.NET Core` `Dapper` `SQL Server`
+
+</td>
+<td width="50%" valign="top">
+
+**📝 [TareasMVC](https://github.com/dotJManuel/TareasMVC)**
+> Task manager with auth and cloud storage.
+>
+> `EF Core` `Identity` `Azure Blob`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [Angular-GPT](https://github.com/dotJManuel/Angular-GPT)**
+> Experimental OpenAI API integration.
+>
+> `Angular 17` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [Portfolio](https://github.com/dotJManuel/portfolio)**
+> Personal developer portfolio.
+>
+> `Astro` `TailwindCSS`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dotJManuel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+### `📊 Activity`
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dotJManuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F0F23&icon_color=6C63FF&title_color=6C63FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotJManuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=6C63FF&langs_count=6" />
+
+<br/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dotJManuel&theme=tokyonight&hide_border=true&background=0F0F23&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
 </div>
 
 <br/>
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-dotJManuel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dotJManuel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Manuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dotjmanuel)
+### `📚 Currently Reading`
 
 </div>
 
-<br/>
-
-## 📚 Currently Reading
-
-<!-- daily.dev BOOKMARKS:START -->
 - [Collection expressions with arguments in C# 15](https://daily.dev/posts/VQXcCQqha?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [Lessons From Four Years of Writing a Weekly Newsletter](https://daily.dev/posts/WQI4aRHZL?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [SQL Indexing Explained: Composite Indexes and Column Order](https://daily.dev/posts/exxMe3LqV?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 - [Should You Split That Into Microservices? Ask These 5 Questions First](https://daily.dev/posts/5E7Orzjkr?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-- [How to Protect HTML Content from Being Copied](https://daily.dev/posts/sLjLZeRJj?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-<!-- daily.dev BOOKMARKS:END -->
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dotJManuel&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
+
+<img src="https://raw.githubusercontent.com/dotJManuel/dotJManuel/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,100:6C63FF&height=120&section=footer"/>
