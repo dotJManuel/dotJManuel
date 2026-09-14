@@ -30,48 +30,45 @@
 
 <div align="center">
 
-### `📌 Projects`
+<div align="left">
+
+<h3><code>📌 Proyectos destacados</code></h3>
+
+<p>Trabajo profesional en producción. El código es privado por confidencialidad; documento arquitectura, decisiones y resultados.</p>
+
+<ul>
+  <li>
+    <b>🏢 PROYECTIA — ERP/SaaS modular</b> · <i>en producción con cliente activo</i><br>
+    CRM, facturación electrónica, gastos, viáticos, nómina y proyectos con dashboards en tiempo real.<br>
+    <code>ASP.NET Core 8</code> <code>Dapper</code> <code>SQL Server</code> <code>JWT + Google OAuth</code> · <a href="https://uteam.com.mx/#dev-medida">Ver producto ↗</a>
+  </li>
+  <li>
+    <b>🔄 Integración SAP Business One ↔ CrunchTime</b> <i>(freelance · Wendy's México)</i><br>
+    Integración <b>bidireccional full-stack</b> que sincroniza CrunchTime (gestión de restaurantes) con
+    SAP B1 y automatiza la creación de órdenes de compra, entradas de mercancía y conteos de inventario,
+    además de sus cancelaciones. Worker con <b>9 jobs programados</b> (Quartz.NET) + API REST, y un panel
+    web en <b>Angular</b> para monitorear el estado, disparar sincronizaciones manuales y generar reportes
+    exportables.<br>
+    <code>.NET 8</code> <code>ASP.NET Core</code> <code>Worker Service</code> <code>Quartz.NET</code>
+    <code>Angular</code> <code>Dapper</code> <code>SAP DI API (COM)</code> <code>SQL Server</code>
+  </li>
+  <li>
+    <b>⚙️ Plataforma empresarial + SAP (WKS Door Systems)</b><br>
+    Sincronización bidireccional en tiempo real con SAP B1. Migración de DI API/DI Server a Service Layer.<br>
+    <b>Resultados:</b> −80% errores de conexión · −70% tiempos de respuesta operativa.<br>
+    <code>.NET 8</code> <code>SAP Service Layer</code> <code>SQL Server</code> <code>Dapper / EF Core</code>
+  </li>
+</ul>
+
+<h3><code>🧪 Proyectos personales</code></h3>
+
+<ul>
+  <li><a href="https://github.com/dotJManuel/ManejoPresupuestoMVC">💰 ManejoPresupuesto</a> — <code>.NET Core</code> <code>Dapper</code> <code>SQL Server</code></li>
+  <li><a href="https://github.com/dotJManuel/TareasMVC">📝 TareasMVC</a> — <code>EF Core</code> <code>Identity</code> <code>Azure Blob</code></li>
+  <li><a href="https://github.com/dotJManuel/Angular-GPT">🤖 Angular-GPT</a> — <code>Angular 17</code> <code>TypeScript</code></li>
+</ul>
 
 </div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**💰 [ManejoPresupuesto](https://github.com/dotJManuel/ManejoPresupuestoMVC)**
-> Personal finance management app.
->
-> `.NET Core` `Dapper` `SQL Server`
-
-</td>
-<td width="50%" valign="top">
-
-**📝 [TareasMVC](https://github.com/dotJManuel/TareasMVC)**
-> Task manager with auth and cloud storage.
->
-> `EF Core` `Identity` `Azure Blob`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 [Angular-GPT](https://github.com/dotJManuel/Angular-GPT)**
-> Experimental OpenAI API integration.
->
-> `Angular 17` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-**💼 [Portfolio](https://github.com/dotJManuel/portfolio)**
-> Personal developer portfolio.
->
-> `Astro` `TailwindCSS`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
