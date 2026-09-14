@@ -43,7 +43,7 @@
     <code>ASP.NET Core 8</code> <code>Dapper</code> <code>SQL Server</code> <code>JWT + Google OAuth</code> · <a href="https://uteam.com.mx/#dev-medida">Ver producto ↗</a>
   </li>
   <li>
-    <b>🔄 Integración SAP Business One ↔ CrunchTime</b> <i>(freelance · Wendy's México)</i><br>
+    <b>🔄 Integración SAP Business One ↔ CrunchTime</b> <i>(freelance · cadena de restaurantes nacional)</i><br>
     Integración <b>bidireccional full-stack</b> que sincroniza CrunchTime (gestión de restaurantes) con
     SAP B1 y automatiza la creación de órdenes de compra, entradas de mercancía y conteos de inventario,
     además de sus cancelaciones. Worker con <b>9 jobs programados</b> (Quartz.NET) + API REST, y un panel
