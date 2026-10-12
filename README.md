@@ -75,13 +75,13 @@
 <div align="center">
 
 ### `📚 Currently Reading`
-
+<!-- daily.dev BOOKMARKS:START -->
 [Collection expressions with arguments in C# 15](https://daily.dev/posts/VQXcCQqha?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <br/>
 [SQL Indexing Explained: Composite Indexes and Column Order](https://daily.dev/posts/exxMe3LqV?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <br/>
 [Should You Split That Into Microservices? Ask These 5 Questions First](https://daily.dev/posts/5E7Orzjkr?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
-
+<!-- daily.dev BOOKMARKS:END -->
 </div>
 
 <br/>
