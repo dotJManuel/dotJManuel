@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/dc1f5d69-25bd-44dd-8aeb-f57f8a3e612f"
-          template: "[$title]($url)<br/>$newline"
+          template: '<a href="$url">$title</a><br/>$newline'
