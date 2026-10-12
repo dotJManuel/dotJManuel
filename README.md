@@ -76,6 +76,11 @@
 
 ### `📚 Currently Reading`
 <!-- daily.dev BOOKMARKS:START -->
+- [How ORMs Still Let SQL Injection Through &lpar;and How to Close the Gaps&rpar;](https://daily.dev/posts/UWxttXmZ8?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [Building a Speech-to-Text App in .NET With AssemblyAI](https://daily.dev/posts/g8c7t33VT?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [How to Extract Structured Data From Images Using Ollama in .NET](https://daily.dev/posts/KcKwNfKUi?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [Collection expressions with arguments in C# 15](https://daily.dev/posts/VQXcCQqha?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
+- [Lessons From Four Years of Writing a Weekly Newsletter](https://daily.dev/posts/WQI4aRHZL?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2)
 <!-- daily.dev BOOKMARKS:END -->
 </div>
 
