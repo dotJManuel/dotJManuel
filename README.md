@@ -75,11 +75,11 @@
 <div align="center">
 
 ### `📚 Currently Reading`
-<!-- daily.dev BOOKMARKS:START --><a href="https://daily.dev/posts/AvPUttgU8?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">MCP server design: tools, authentication, and rate limits</a><br/>
+<!-- daily.dev BOOKMARKS:START --><a href="https://daily.dev/posts/HcVcTTdpG?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">Claude Code tutorials all agree: your CLAUDE.md is the real product</a><br/>
+<a href="https://daily.dev/posts/AvPUttgU8?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">MCP server design: tools, authentication, and rate limits</a><br/>
 <a href="https://daily.dev/posts/2a2haeRkb?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">The Anatomy of an AI Agent</a><br/>
 <a href="https://daily.dev/posts/UWxttXmZ8?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">How ORMs Still Let SQL Injection Through &lpar;and How to Close the Gaps&rpar;</a><br/>
 <a href="https://daily.dev/posts/g8c7t33VT?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">Building a Speech-to-Text App in .NET With AssemblyAI</a><br/>
-<a href="https://daily.dev/posts/KcKwNfKUi?utm_source=rss&utm_medium=bookmarks&utm_campaign=kgtp1YC5in2i4ZQAZj8W2">How to Extract Structured Data From Images Using Ollama in .NET</a><br/>
 <!-- daily.dev BOOKMARKS:END -->
 </div>
 
